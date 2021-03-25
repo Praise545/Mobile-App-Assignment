@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">PRAISE MOBILE APP ASSIGNMENT</string>
+    <string name="tab_text_1">ABOUT APP</string>
+    <string name="tab_text_2">DATA VISUALIZATION</string>
+    <string name="tab_text_3">ABOUT ME</string>
+    <string name="coll">STATES</string>
+    <string name="coll2">FAAC 2020</string>
+    <string name="row1state">ABIA</string>
+    <string name="row1FAAC">26212805484
+</string>
+    <string name="row2state">ADAMAWA</string>
+    <string name="row2FAAC">32724498012
+</string>
+    <string name="row3state">AKWA IBOM</string>
+    <string name="row3FAAC">44007664633
+</string>
+    <string name="row4state">ANAMBRA</string>
+    <string name="row4FAAC">33800805702
+</string>
+    <string name="row5state">BAUCHI</string>
+    <string name="row5FAAC">37170895714
+</string>
+    <string name="row6state">BAYELSA</string>
+    <string name="row6FAAC">15121577520
+</string>
+    <string name="row7state">BENUE</string>
+    <string name="row7FAAC">39416927345
+</string>
+    <string name="row8state">BORNO</string>
+    <string name="row8FAAC">43601442943
+</string>
+    <string name="row9state">CROSS RIVER</string>
+    <string name="row9FAAC">28228182209
+</string>
+    <string name="row10state">DELTA</string>
+    <string name="row10FAAC">37766461334
+</string>
+    <string name="row11state">EBONYI</string>
+    <string name="row11FAAC">21161928719
+</string>
+    <string name="row12state">EDO</string>
+    <string name="row12FAAC">28165984567
+</string>
+    <string name="row13state">EKITI</string>
+    <string name="row13FAAC">22769629148
+</string>
+    <string name="row14state">ENUGU</string>
+    <string name="row14FAAC">28695846144
+</string>
+    <string name="row15state">GOMBE</string>
+    <string name="row15FAAC">19295183940
+</string>
+    <string name="row16state">IMO</string>
+    <string name="row16FAAC">38675130634
+</string>
+    <string name="row17state">JIGAWA</string>
+    <string name="row17FAAC">40573738863
+</string>
+    <string name="row18state">KADUNA</string>
+    <string name="row18FAAC">45319154139
+</string>
+    <string name="row19state">KANO</string>
+    <string name="row19FAAC">73924373960
+</string>
+    <string name="row20state">KATSINA</string>
+    <string name="row20FAAC">54457725691
+</string>
+    <string name="row21state">KEBBI</string>
+    <string name="row21FAAC">33889842674
+</string>
+    <string name="row22state">KOGI</string>
+    <string name="row22FAAC">33355888486
+</string>
+    <string name="row23state">KWARA</string>
+    <string name="row23FAAC">24989471056
+</string>
+    <string name="row24state">LAGOS</string>
+    <string name="row24FAAC">95196217575
+</string>
+    <string name="row25state">NASARAWA</string>
+    <string name="row25FAAC">21635686920
+</string>
+    <string name="row26state">NIGER</string>
+    <string name="row26FAAC">40973936773
+</string>
+    <string name="row27state">OGUN</string>
+    <string name="row27FAAC">30286326499
+</string>
+    <string name="row28state">ONDO</string>
+    <string name="row28FAAC">28564470419
+</string>
+    <string name="row29state">OSUN</string>
+    <string name="row29FAAC">38799315440
+</string>
+    <string name="row30state">OYO</string>
+    <string name="row30FAAC">51304106105
+</string>
+    <string name="row31state">PLATEAU</string>
+    <string name="row31FAAC">29910756875
+</string>
+    <string name="row32state">RIVERS</string>
+    <string name="row32FAAC">40811804110
+</string>
+    <string name="row33state">SOKOTO</string>
+    <string name="row33FAAC">37230341356
+</string>
+    <string name="row34state">TARABA</string>
+    <string name="row34FAAC">27437438477
+</string>
+    <string name="row35state">YOBE</string>
+    <string name="row35FAAC">27822514055
+</string>
+    <string name="row36state">ZAMFARA</string>
+    <string name="row36FAAC">25636292533
+</string>
+    <string name="row37state">FCT</string>
+    <string name="row37FAAC">25262258769
+</string>
+</resources>
